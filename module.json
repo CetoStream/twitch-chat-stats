@@ -1,0 +1,15 @@
+{
+  "id": "twitch-chat-stats",
+  "title": "Twitch Chat Stats",
+  "description": "Envoie les infos des PJ dans le chat Twitch.",
+  "version": "1.0.0",
+  "authors": [{ "name": "CetoStream" }],
+  "esmodules": ["scripts/main.js"],
+  "styles": [],
+  "languages": [],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.300",
+    "maximum": "13"
+  }
+}
